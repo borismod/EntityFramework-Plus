@@ -680,12 +680,6 @@
     </None>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\Z.EntityFramework.Plus.EF5\Z.EntityFramework.Plus.EF5.csproj">
-      <Project>{1b28efb7-e679-4275-aca9-da7cd589a56a}</Project>
-      <Name>Z.EntityFramework.Plus.EF5</Name>
-    </ProjectReference>
-  </ItemGroup>
   <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

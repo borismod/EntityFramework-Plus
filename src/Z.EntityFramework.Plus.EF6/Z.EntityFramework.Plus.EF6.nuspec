@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Z.EntityFramework.Plus.EF6.WithHierarchyId</id>
+    <version>1.4.44</version>
+    <title>EntityFramework Plus (EF6) | Full Version</title>
+    <authors>ZZZ Projects Inc.</authors>
+    <owners>ZZZ Projects Inc.</owners>
+    <licenseUrl>https://github.com/zzzprojects/EntityFramework-Plus/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/borismod/EntityFramework-Plus</projectUrl>
+    <iconUrl>https://zzzprojects.github.io/images/logo/logo-64.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>EF+ Full Version | C# Entity Framework Utilities (Bulk Operations | Batch Delete | Batch Update | Query Cache | Query Filter | Query Future | Query Include | Audit)</description>
+    <summary>EF+ Full Version | C# Entity Framework Utilities (Bulk Operations | Batch Delete | Batch Update | Query Cache | Query Filter | Query Future | Query Include | Audit)</summary>
+    <copyright>Copyright © ZZZ Projects Inc. 2014 - 2017</copyright>
+    <tags>EF6 EF EntityFramework Audit Batch Cache HierarchyId</tags>
+  </metadata>
+</package>
